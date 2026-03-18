@@ -1,5 +1,5 @@
 <!--
-**[Your GitHub Username]/[Your GitHub Username]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sandeepmk2006/sandeepmk2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# Hey 👋, I'm [Your Name]
+# Hey 👋, I'm Sandeep M K
 
 ### A passionate B.Tech CSE student building real-world AI solutions.
 
@@ -52,7 +52,7 @@ Here are some of the projects and concepts I'm currently exploring:
 
 I actively practice Data Structures and Algorithms to sharpen my problem-solving skills. You can find me solving problems on LeetCode.
 
--   **LeetCode:** [Your LeetCode Profile](https://leetcode.com/your-username/)
+-   **LeetCode:** [sandeep20061130](https://leetcode.com/u/sandeep20061130/)
 
 ---
 
@@ -90,9 +90,9 @@ I actively practice Data Structures and Algorithms to sharpen my problem-solving
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepmk2006&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepmk2006&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandeepmk2006&theme=radical)
 
 </div>
 
@@ -102,7 +102,7 @@ I actively practice Data Structures and Algorithms to sharpen my problem-solving
 
 <div align="center">
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[Your-GitHub-Username]&theme=react-dark)](https://github.com/[Your-GitHub-Username])
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sandeepmk2006&theme=react-dark)](https://github.com/sandeepmk2006)
 
 </div>
 
@@ -121,7 +121,7 @@ I'm always open to collaborating on interesting projects. If you're passionate a
 
 ## 📫 Get in Touch
 
--   **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
--   **Email:** [your.email@example.com](mailto:your.email@example.com)
+-   **LinkedIn:** [LinkedIn](www.linkedin.com/in/sandeep-m-k-b69279324)
+-   **Email:** [sandeepm24@karunya.edu.in](mailto:sandeepm24@karunya.edu.in)
 
 </div>
