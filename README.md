@@ -120,7 +120,7 @@ I actively practice Data Structures and Algorithms to sharpen my problem-solving
 
 <div align="center">
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sandeepmk2006&theme=react-dark)](https://github.com/sandeepmk2006)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepmk2006&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true)](https://github.com/sandeepmk2006)
 
 </div>
 
