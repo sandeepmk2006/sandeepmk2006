@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-I'm a second-year Computer Science and Engineering student with a strong passion for Artificial Intelligence, Large Language Models (LLMs), and computer vision. My focus is on building practical, system-level projects that solve real-world problems, moving beyond simple demos to create robust and useful tools. I enjoy diving deep into new technologies and applying them to create innovative solutions.
+I'm a second-year Computer Science and Engineering student with a strong passion for building intelligent systems that bridge the gap between software and the physical world. My focus is on hardware-software co-design, where I apply my skills in AI, LLMs, and computer vision to real-world challenges in embedded systems, robotics, and edge AI. I am driven by the challenge of creating practical, system-level solutions that are not just demos, but robust and useful tools, as demonstrated in my projects like the Arduino Co-Pilot and Adaptive Palletization system.
 
 ---
 
