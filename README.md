@@ -34,17 +34,33 @@ I'm a second-year Computer Science and Engineering student with a strong passion
 
 ---
 
-## 🚀 What I’m Building Right Now
+## 🏆 Featured Projects
 
-Here are some of the projects and concepts I'm currently exploring:
+---
 
--   🧠 **Local LLMs / Edge AI:** I'm experimenting with running language models locally using tools like **Ollama** and **TensorFlow Lite**. My goal is to build efficient AI systems that can run on edge devices with limited resources.
+### 🤖 Arduino Co-Pilot — AI-Powered Code Assistant
+[**GitHub Link**](https://github.com/sandeepmk2006/arduino-co-pilot)
+-   Developed a fully offline, AI-powered VS Code extension using **Phi-3-mini** to assist with Arduino development.
+-   Engineered a Retrieval-Augmented Generation (RAG) pipeline with **FAISS** over the entire Arduino documentation for context-aware responses.
+-   Generates Arduino code, wiring guides, and explanations in both Tamil and English, running entirely on-device.
+-   ⚡ **Impact:** Provides a fast, private, and real-world developer tool that operates without cloud dependency or API keys, enhancing productivity and privacy.
 
--   🤖 **AI-Powered Study Assistant:** A personal project to create a smart study assistant that helps with summarizing notes, generating flashcards, and answering questions. This involves fine-tuning smaller LLMs and building a user-friendly interface.
+---
 
--   🔌 **Arduino Co-pilot:** I'm developing an AI co-pilot for Arduino projects. It helps write and debug code, suggests circuit designs, and provides documentation, making it easier for hobbyists to build complex projects.
+### 🦾 Adaptive Palletization — Physical AI System
+[**GitHub Link**](https://github.com/sandeepmk2006/adaptive-palletization)
+-   Built an industrial robotics simulation in **NVIDIA Isaac Sim** featuring a UR10 robot for intelligent palletizing tasks.
+-   Implemented AI-driven decision-making using **LeRobot** policies for adaptive object handling.
+-   Leveraged **NVIDIA Replicator** for Synthetic Data Generation (SDG) to train and validate perception models.
+-   ⚡ **Impact:** Demonstrates an end-to-end robotics and AI pipeline, from data generation to simulation and control, showcasing skills relevant to modern industrial automation.
 
--   👁️ **Computer Vision Projects:** Exploring real-time object detection and image classification using **OpenCV** and **TensorFlow** for applications like smart surveillance and interactive installations.
+---
+
+### 📚 Study Assistant — AI Learning Tool
+[**GitHub Link**](https://github.com/sandeepmk2006/Study-assistant)
+-   Created a practical AI-powered study and productivity assistant designed to help students understand complex concepts and streamline their workflows.
+-   Built with a focus on real-world student usage, providing tangible benefits for learning and productivity.
+-   ⚡ **Impact:** Applies AI to solve a common problem, showcasing the ability to build practical, user-centric applications that deliver real value.
 
 ---
 
